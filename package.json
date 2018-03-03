@@ -1,0 +1,33 @@
+{
+  "name": "github-base64-images",
+  "version": "1.0.0",
+  "description": "Test and converter for having images insert into commit and issues as \"Markdown Base64 Image Tags\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcogadget/github-base64-images.git"
+  },
+  "keywords": [
+    "github",
+    "markdown",
+    "base64",
+    "tag",
+    "include",
+    "import"
+  ],
+  "author": "Marco Gordon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marcogadget/github-base64-images/issues"
+  },
+  "homepage": "https://github.com/marcogadget/github-base64-images#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
